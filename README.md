@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋  I'm Nicole! 
+![IMG_8398](https://user-images.githubusercontent.com/40500181/114073282-1e2e2880-9871-11eb-97bd-5036027f7cc4.JPG)
 
-<!--
-**Ncgreer12/Ncgreer12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Sales Operations Business Analyst at GitHub 
+#### Currently working on:
+- Quote to Cash 
+- Salesforce 
+- Sales Process Design & Improvement
 
-Here are some ideas to get you started:
+## Hobbies Include: 
+- 👟 Collecting Shoes 
+- 🏀 🏈 🏐 🎳 Sports 
+- 📚 Learning/ Reading and Productivity Stuff 
+- 🚴🏽‍♀️ Fitness (Peloton Username: ColeInTheCloud) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
