@@ -7,7 +7,7 @@
 - Salesforce 
 - Sales Process Design & Improvement
 
-## Hobbies Include: 
+## Outside the office: 
 - 👟 Collecting Shoes 
 - 🏀 🏈 🏐 🎳 Sports 
 - 📚 Learning/ Reading and Productivity Stuff 
